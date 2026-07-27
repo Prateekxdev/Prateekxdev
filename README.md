@@ -1,16 +1,23 @@
-## Hi there 👋
+_____________________________________________
+       |                                             |
+       |   ██████╗ ██████╗  █████╗ ████████╗███████╗ |
+       |   ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝ |
+       |   ██████╔╝██████╔╝███████║   ██║   █████╗   |
+       |   ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══╝   |
+       |   ██║     ██║  ██║██║  ██║   ██║   ███████╗ |
+       |   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ |
+       |_____________________________________________|
+  OS: ............. Windows 
+  Uptime: .......... 20 years, 3 months
+  Kernel: .......... BCA Student
+  Shell: ........... AI Builder Track
+  Languages: ....... Python, JavaScript, C++
+  Frameworks: ...... Streamlit, Gemini API
+  Hobbies: ......... AI Engineering,Data Analytics
+  Contact: ......... prateekcmsstroad@gmail.com
+  Status: .......... Building cool things 🚀
+  ### 📊 GitHub Stats
 
-<!--
-**Prateekxdev/Prateekxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Prateekxdev&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Prateekxdev&layout=compact&theme=radical)
